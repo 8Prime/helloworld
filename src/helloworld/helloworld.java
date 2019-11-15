@@ -4,7 +4,7 @@ public class helloworld {
 
 	
 	public static void main(String[] args) {
-	 for(int j = 3; j <= 10000; j++){
+	 for(int j = 3; j <= 100000; j++){
 		
 		
 		
